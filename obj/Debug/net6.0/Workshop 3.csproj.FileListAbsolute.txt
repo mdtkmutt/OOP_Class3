@@ -1,0 +1,15 @@
+/Users/kittinunchobtham/Desktop/Workshop 3/obj/Debug/net6.0/Workshop 3.csproj.AssemblyReference.cache
+/Users/kittinunchobtham/Desktop/Workshop 3/obj/Debug/net6.0/Workshop 3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kittinunchobtham/Desktop/Workshop 3/obj/Debug/net6.0/Workshop 3.AssemblyInfoInputs.cache
+/Users/kittinunchobtham/Desktop/Workshop 3/obj/Debug/net6.0/Workshop 3.AssemblyInfo.cs
+/Users/kittinunchobtham/Desktop/Workshop 3/obj/Debug/net6.0/Workshop 3.csproj.CoreCompileInputs.cache
+/Users/kittinunchobtham/Desktop/Workshop 3/bin/Debug/net6.0/Workshop 3
+/Users/kittinunchobtham/Desktop/Workshop 3/bin/Debug/net6.0/Workshop 3.deps.json
+/Users/kittinunchobtham/Desktop/Workshop 3/bin/Debug/net6.0/Workshop 3.runtimeconfig.json
+/Users/kittinunchobtham/Desktop/Workshop 3/bin/Debug/net6.0/Workshop 3.dll
+/Users/kittinunchobtham/Desktop/Workshop 3/bin/Debug/net6.0/Workshop 3.pdb
+/Users/kittinunchobtham/Desktop/Workshop 3/obj/Debug/net6.0/Workshop 3.dll
+/Users/kittinunchobtham/Desktop/Workshop 3/obj/Debug/net6.0/refint/Workshop 3.dll
+/Users/kittinunchobtham/Desktop/Workshop 3/obj/Debug/net6.0/Workshop 3.pdb
+/Users/kittinunchobtham/Desktop/Workshop 3/obj/Debug/net6.0/Workshop 3.genruntimeconfig.cache
+/Users/kittinunchobtham/Desktop/Workshop 3/obj/Debug/net6.0/ref/Workshop 3.dll
